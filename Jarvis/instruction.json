@@ -1,0 +1,9 @@
+
+{
+  "switched_on_equipments": [],
+  "reply_I_have_switched_on_this_this_and_this": null,
+  "switched_off_equipments": [
+    "Parent Bedroom Bulb"
+  ],
+  "reply_I_have_switched_off_this_this_and_this": "I have switched off Parent Bedroom Bulb"
+}
