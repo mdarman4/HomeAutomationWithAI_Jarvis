@@ -14,7 +14,6 @@ import struct
 import time
 import porcupine_key
 import sounddevice
-# import configure_gemini
 import os
 def recognize_speech():
     recognizer=sr.Recognizer()
