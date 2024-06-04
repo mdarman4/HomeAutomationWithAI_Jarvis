@@ -85,10 +85,7 @@ def beep2():
     pygame.mixer.music.stop()
     pygame.mixer.quit()
 def generate_sound(generated):
-    # VOICE="hi-IN-MadhurNeural"
     VOICE="hi-IN-SwaraNeural"
-# VOICE = "en-GB-SoniaNeural"
-    # VOICE="ur-IN-SalmanNeural"
     OUTPUT_FILE = "test.mp3"
     async def amain() -> None:
         """Main function"""
