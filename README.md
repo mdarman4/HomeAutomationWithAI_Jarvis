@@ -1,6 +1,6 @@
 # HomeAutomationWithAI_Jarvis
 
-It is a smart home assistant inspired by the AI from Iron Man. This project uses speech recognition, text-to-speech, and home automation controls to create a responsive and interactive assistant. The assistant is capable of recognizing voice commands, processing them using a language model, and controlling smart home devices accordingly. The LLM used here is Gemini-pro.
+It is a smart home assistant inspired by the AI from Iron Man. This project uses speech recognition, text-to-speech, and home automation controls to create a responsive and interactive assistant. The assistant is capable of recognizing voice commands, processing them using a language model, and controlling smart home devices accordingly. The LLM used here is Gemini-pro. You can run this on Raspberry Pi.
 
 ## Features
 
